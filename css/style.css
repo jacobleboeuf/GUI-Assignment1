@@ -1,0 +1,98 @@
+body {
+    background-color: Black;
+    color: white;
+    margin: 20px;
+    font-family: sans-serif;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 45px;
+    color: red;
+    margin: 10px;
+}
+h3 {
+    font-size: 30px;
+    color: red;
+    margin: 15px;
+}
+p {
+    font-size: 20px;
+    padding: 10px;
+    margin: 30px;
+    margin-right: 500px;
+}
+b, a {
+  color: DarkRed;
+}
+img {
+    float: right;
+    padding-right: 30px;
+}
+th, td {
+    border-style: solid;
+    font-size: 20px;
+    text-align: center;
+}
+table {
+    margin-left: 260px;
+    padding-bottom: 20px;
+}
+#About {
+    border-style: solid;
+    border-width: 2pt;
+    border-radius: .5em;
+}
+#About img {
+    padding-top: 30px;
+    height: 221px;
+    width: 288px;
+}
+
+#Why {
+    border-style: solid;
+    border-width: 2pt;
+    border-radius: .5em;
+}
+#Why img {
+    height: 348px;
+    width: 578px;
+    padding-right: 50px;
+}
+#How {
+    border-style: solid;
+    border-width: 2pt;
+    border-radius: .5em;
+}
+#Good {
+    border-style: solid;
+    border-width: 1pt;
+    border-radius: .5em;
+}
+#Good img {
+    padding-top: 30px;
+    height: 259px;
+    width: 400px;
+}
+#Bad {
+    border-style: solid;
+    border-width: 1pt;
+    border-radius: .5em;
+}
+#Bad img {
+    padding-top: 30px;
+    height: 425px;
+    width: 270px;
+}
+#Bad table {
+    margin-left: 40px;
+    padding-bottom: 100px;
+}
+#Info p {
+    font-size: 15px;
+    padding: 0px;
+}
