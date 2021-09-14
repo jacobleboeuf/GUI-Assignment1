@@ -48,7 +48,7 @@ table {
     border-radius: .5em;
 }
 #About img {
-    padding-top: 23pt;
+    padding-top: 15pt;
     height: 166pt;
     width: 216pt;
 }
@@ -66,6 +66,7 @@ table {
     border-style: solid;
     border-width: 2pt;
     border-radius: .5em;
+    padding-bottom: 75pt;
 }
 #Good {
     border-style: solid;
@@ -86,6 +87,7 @@ table {
     padding-top: 23pt;
     height: 319pt;
     width: 206pt;
+    margin-right: 0pt;
 }
 #Bad table {
     margin-left: 30pt;
