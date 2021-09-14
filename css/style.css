@@ -48,7 +48,7 @@ table {
     border-radius: .5em;
 }
 #About img {
-    padding-top: 15pt;
+    margin: 10pt;
     height: 166pt;
     width: 216pt;
 }
